@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkherade/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
