@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vedantkherade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkherade/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vedantkherade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkherade/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
@@ -49,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vedantkherade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
