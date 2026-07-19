@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vedantkherade/Leetcode/tree/master/0242-valid-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkherade/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vedantkherade/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/vedantkherade/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkherade/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vedantkherade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/vedantkherade/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
