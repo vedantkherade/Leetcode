@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vedantkherade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vedantkherade/Leetcode/tree/master/0268-missing-number) |
+| [0867-transpose-matrix](https://github.com/vedantkherade/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedantkherade/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkherade/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vedantkherade/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vedantkherade/Leetcode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vedantkherade/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
