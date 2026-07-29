@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vedantkherade/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/vedantkherade/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/vedantkherade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vedantkherade/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vedantkherade/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/vedantkherade/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vedantkherade/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vedantkherade/Leetcode/tree/master/0509-fibonacci-number) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vedantkherade/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/vedantkherade/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
