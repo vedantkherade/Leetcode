@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vedantkherade/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vedantkherade/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/vedantkherade/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkherade/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vedantkherade/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vedantkherade/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/vedantkherade/Leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/vedantkherade/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
