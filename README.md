@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vedantkherade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedantkherade/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vedantkherade/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vedantkherade/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vedantkherade/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vedantkherade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedantkherade/Leetcode/tree/master/0229-majority-element-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vedantkherade/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vedantkherade/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/vedantkherade/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedantkherade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedantkherade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedantkherade/Leetcode/tree/master/0242-valid-anagram) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vedantkherade/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vedantkherade/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vedantkherade/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedantkherade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedantkherade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedantkherade/Leetcode/tree/master/0242-valid-anagram) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedantkherade/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vedantkherade/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vedantkherade/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vedantkherade/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vedantkherade/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/vedantkherade/Leetcode/tree/master/0912-sort-an-array) |
@@ -168,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vedantkherade/Leetcode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vedantkherade/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
