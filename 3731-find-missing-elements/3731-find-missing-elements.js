@@ -3,16 +3,15 @@
  * @return {number[]}
  */
 var findMissingElements = function(nums) {
-    nums.sort((a, b) => a - b);
+    const min = Math.min(...nums);
+    const max = Math.max(...nums);
 
-    let result = [];
+    const set = new Set(nums);
+    const result = [];
 
-    for (let i = 0; i < nums.length - 1; i++) {
-        let current = nums[i];
-        let next = nums[i + 1];
-
-        for (let num = current + 1; num < next; num++) {
-            result.push(num);
+    for (let i = min; i <= max; i++) {
+        if (!set.has(i)) {
+            result.push(i);
         }
     }
 
