@@ -22,5 +22,4 @@ var rotate = function(nums, k) {
   reverse(nums, k, n-1);
 
   return nums;
-
 };
